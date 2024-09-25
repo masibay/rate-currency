@@ -20,7 +20,7 @@ This is a currency exchange rate app built using **Vite**, **React**, and **Tail
 1.  **Clone the repository**:
     
     ```bash
-    git clone https://github.com/your-username/currency-exchange-		rate-app.git` 
+    git clone https://github.com/masibay/rate-currency.git 
     ```
     
 2.  **Navigate to the project directory**:
@@ -39,7 +39,7 @@ This is a currency exchange rate app built using **Vite**, **React**, and **Tail
     -   Add your API key from [Currency Freaks](https://currencyfreaks.com) in the `.env` file as follows:
         
     ```bash
-    VITE_API_KEY=your_api_key_here`
+    VITE_API_KEY=your_api_key_here
     ```    
         
 5.  **Run the development server**:
